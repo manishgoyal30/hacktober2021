@@ -42,8 +42,7 @@ h3 {
   margin: 5rem auto 8rem;
 }
 .container a {
-  text-decoration: none;
-  color: rgb(57,116,48);
+  color: rgb(0, 0, 0);
 }
 
 .container a:hover {
@@ -101,7 +100,7 @@ a.list-item:hover {
     left: 0;
     bottom: 0;
     width: 100vw;
-     height: 45px; 
+     height: 45px;
     background: linear-gradient(to left, #FF0844, #FF4563);
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     color: white;
@@ -112,7 +111,7 @@ a.list-item:hover {
   padding: 6px;
   display: inline-block;
 
-}   
+}
 .footer__socials a {
   padding: 20px;
 
