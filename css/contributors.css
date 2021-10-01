@@ -102,13 +102,20 @@ a:hover {
   margin: 5%;
 }
 
-.boxy-link{
+
+#boxy-btn{
+  position: relative;
+  font-size: 12px;
+  border-radius: 7px;
+  width: 85%;
+  padding: 8px;
   font-weight: 600;
 }
 
-.boxy-ink:hover{
-  background-color: #FF0844;
-  padding: 2px;
+#boxy-btn:hover{
+  background: #000000;
+  box-shadow: none;
+  border: solid azure 3px; 
 }
 
 
